@@ -41,6 +41,8 @@
 
 * **The model was trained with Google Colab pro on tesla v100 GPU :**
 
+https://colab.research.google.com/drive/1Xk1IsuWM4wga7WTMpdCoTX6mmUPhqoKr?usp=sharing
+
 ![Screenshot_2020-09-24_12-48-14](https://user-images.githubusercontent.com/54184905/94129685-55ecfa00-fe64-11ea-937c-95ef96e26766.png)
 
 * **Model performance and loss :**
